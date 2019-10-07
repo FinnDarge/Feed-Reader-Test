@@ -14,4 +14,4 @@ There were seven required tests that check the following:
 
 When loading the html file you can see the jasmine tests at the bottom of the page. If it is green the tests were going fine, if the jasmine part is red there are some failures you can inspect.
 
-![Screenshot](/images/Screenshot.jpg?)
+![Screenshot](/images/Screenshot.png?)
