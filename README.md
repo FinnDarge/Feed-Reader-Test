@@ -4,12 +4,14 @@ In this project from Udacity I was given a web-based application that reads RSS 
 
 There were seven required tests that check the following:
 
-1 RSS Feeds have to be defined
-2 RSS Feeds have to be name
-3 RSS Feeds have to be URL
-4 The menu must be hidden by default
-5 The menu must change when clicked (hidden / shown)
-6 The initial entries must work
-7 The new Feed must change compared to previous feed
+1. RSS Feeds have to be defined
+2. RSS Feeds have to be name
+3. RSS Feeds have to be URL
+4. The menu must be hidden by default
+5. The menu must change when clicked (hidden / shown)
+6. The initial entries must work
+7. The new Feed must change compared to previous feed
 
 When loading the html file you can see the jasmine tests at the bottom of the page. If it is green the tests were going fine, if the jasmine part is red there are some failures you can inspect.
+
+![Screenshot](/images/Screenshot.jpg?)
